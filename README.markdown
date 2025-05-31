@@ -14,7 +14,9 @@
 - **TestNG Framework: Organizes test execution with** `testng.xml`**.**
 - **Maven Build: Manages dependencies and test execution.**
 
+
 ---
+
 
 ## **🚀 Features**
 
@@ -24,7 +26,9 @@
 - **Selenium Utilities: Helper methods for common Selenium tasks (e.g., waits, clicks).**
 - **Scalable Framework: Easy to add new test cases and pages.**
 
+
 ---
+
 
 ## **📋 Prerequisites**
 
@@ -35,7 +39,9 @@
 - **Google Chrome (v136.0.7103.114): Recommended browser (configurable in** `config.properties`**).**
 - **Windows/WSL/Linux/Mac: Tested on Windows 10/11 and WSL (Ubuntu).**
 
+
 ---
+
 
 ## **🛠️ Setup Instructions**
 
@@ -85,7 +91,9 @@
      mvn test -Dtest=TestCase9
      ```
 
+
 ---
+
 
 ## **📂 Project Structure**
 
@@ -123,7 +131,9 @@ Automation_Exercise_Project/
 └── README.md                           # Project documentation
 ```
 
+
 ---
+
 
 ## **🧪 Test Cases**
 
@@ -158,7 +168,9 @@ Automation_Exercise_Project/
 | **TC25** | **Verify Scroll Up using 'Arrow' button and Scroll Down functionality** | **1. Launch browser<strong><br></strong>2. Navigate to** `http://automationexercise.com`**<strong><br></strong>3. Verify home page is visible<strong><br></strong>4. Scroll down to footer<strong><br></strong>5. Verify 'SUBSCRIPTION' text<strong><br></strong>6. Click 'Scroll Up' arrow button<strong><br></strong>7. Verify page scrolls to top and 'Full-Fledged practice website...' is visible** |
 | **TC26** | **Verify Scroll Up without 'Arrow' button and Scroll Down functionality** | **1. Launch browser<strong><br></strong>2. Navigate to** `http://automationexercise.com`**<strong><br></strong>3. Verify home page is visible<strong><br></strong>4. Scroll down to footer<strong><br></strong>5. Verify 'SUBSCRIPTION' text<strong><br></strong>6. Scroll up to top<strong><br></strong>7. Verify page scrolls to top and 'Full-Fledged practice website...' is visible** |
 
+
 ---
+
 
 ## **⚙️ Configuration**
 
@@ -179,49 +191,9 @@ Automation_Exercise_Project/
 - **Util.java: General utility functions (e.g., string manipulation, random data generation).**
 - **VerifyDownload.java: Verifies successful file downloads during tests (e.g., invoice downloads).**
 
----
-
-## **📸 Visuals**
-
-**To make this project more engaging, you can add the following images to your repository:**
-
-1. **Project Logo:**
-
-   - **Create a logo (e.g., using Canva or Figma) named** `logo.png`**.**
-
-   - **Place it in a** `docs/images/` **directory.**
-
-   - **Add at the top of the README:**
-
-     ```markdown
-     ![Project Logo](docs/images/logo.png)
-     ```
-
-2. **Test Execution Screenshot:**
-
-   - **Take a screenshot of a test run (e.g.,** `TestCase9` **results in the terminal).**
-
-   - **Name it** `test-execution.png` **and place it in** `docs/images/`**.**
-
-   - **Add in the "Run Tests" section:**
-
-     ```markdown
-     ![Test Execution](docs/images/test-execution.png)
-     ```
-
-3. **Project Structure Diagram:**
-
-   - **Create a diagram of the project structure using tools like draw.io or Lucidchart.**
-
-   - **Export as** `structure-diagram.png` **and place in** `docs/images/`**.**
-
-   - **Add in the "Project Structure" section:**
-
-     ```markdown
-     ![Project Structure](docs/images/structure-diagram.png)
-     ```
 
 ---
+
 
 ## **💡 Future Improvements**
 
@@ -234,10 +206,10 @@ Automation_Exercise_Project/
 
 ## **📞 Contact**
 
-**For questions or contributions, reach out to Mohamed Elmezayn or open an issue on this repository.**
+**For questions or contributions, reach out to Mohamed Elmezayn through LinkedIn: https://www.linkedin.com/in/mohamedelmezayn88/ .**
 
 ---
 
-**⭐ If you find this project helpful, please give it a star on GitHub!**
+**⭐⭐⭐ If you find this project helpful, please give it a star on GitHub. ⭐⭐⭐*
 
 ***Last updated: May 31, 2025, 04:12 PM EEST***
